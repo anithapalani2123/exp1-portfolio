@@ -258,12 +258,7 @@ html{
     
     
 }
-/* .box1::before{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-} */
+
 .box1
 {
     display: block;
