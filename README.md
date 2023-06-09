@@ -383,13 +383,16 @@ html{
 }
 ```
 ## OUTPUT:
-![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/ba8629b6-7e5e-458d-a06e-fb4751515772)
+![p1](https://github.com/anithapalani2123/exp1-portfolio/assets/94184990/cafd1214-f189-48e0-a92d-a2cca4cbbb05)
 
-![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/f6cf2dd1-002d-4fa4-b1a0-8989f2264ed5)
 
-![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/151061db-95b0-44cf-b162-5682c4287750)
+![p5](https://github.com/anithapalani2123/exp1-portfolio/assets/94184990/8ae2acb0-5e0c-4d84-9242-dc723db782f6)
+![p3](https://github.com/anithapalani2123/exp1-portfolio/assets/94184990/01fcb29f-c569-4c84-978e-d488ddb3cd67)
 
-![image](https://github.com/Aashima02/Portfolio-HTML-CSS/assets/93427086/5b7e86b7-6e34-4236-9c8c-d9f567ea9df2)
+
+![p4](https://github.com/anithapalani2123/exp1-portfolio/assets/94184990/b884d74f-b823-417c-b7c2-b58553490db4)
+
+
 
 
 ## RESULT:
